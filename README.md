@@ -8,7 +8,7 @@
 
 <h2>GitHub-dan yuklab olish</h2>
 <pre>
-    git clone &lt;repository-url&gt;
+    git clone &lt;https://github.com/muhammadjon-merzaqulov/Nashville_Cleaning.git&gt;
     cd &lt;repository-folder&gt;
     git pull origin main
 </pre>
