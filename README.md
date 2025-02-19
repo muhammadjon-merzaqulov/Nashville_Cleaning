@@ -4,8 +4,6 @@
     <li><strong>Nashville_Cleaning_Pandas.ipynb</strong> - Jupyter Notebook fayli, bu yerda Pandas yordamida ma'lumotlarni tozalash jarayoni amalga oshiriladi.</li>
     <li><strong>Nashville_Cleaning_query.sql</strong> - SQL skript fayli, bu SQL yordamida ma'lumotlarni tozalash amallarini o'z ichiga oladi.</li>
     <li><strong>Nashville_new.xlsx</strong> - Tozalangan ma'lumotlar fayli.</li>
-    <li><strong>LICENSE</strong> - Loyiha litsenziyasi.</li>
-    <li><strong>README.md</strong> - Ushbu hujjat, loyiha haqida batafsil ma'lumot beradi.</li>
 </ul>
 
 <h2>GitHub-dan yuklab olish</h2>
@@ -33,9 +31,9 @@
 
 <h2>Muhim eslatmalar</h2>
 <ul>
-    <li>Pandas kodini ishlatish uchun quyidagi kutubxonalar o'rnatilgan bo'lishi kerak:
+    <li>Pandas kodini ishlatish uchun quyidagi kutubxonani o'rnatilgan bo'lishi kerak:
         <pre>
-            pip install pandas openpyxl
+            pip install pandas
         </pre>
     </li>
     <li>SQL kodini bajarish uchun SQLite yoki PostgreSQL kabi SQL tizimlaridan foydalanishingiz mumkin.</li>
